@@ -40,6 +40,8 @@ Yes❗
 
 No! Anyone, even a 2yr old can use DogeWatch!
 
+Thus meaning that this is a family friendly site. Any video taken down will [look like this](https://doggegamingtime.github.io/dogewatch/content-deleted).
+
 ## Can I help develop DogeWatch?
 
 Yes! Fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqLBk7ixXCWzT11MTdE9ZUfWH4z-O3RnF7bjJrv0Z1aNNB1A/viewform" target="_blank">this form</a>!
