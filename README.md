@@ -1,3 +1,5 @@
+![DogeWatch](dogewatch.png)
+
 # DogeWatch
 
 Welcome to DogeWatch: **Watch the future**.
