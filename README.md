@@ -1,5 +1,9 @@
 ![DogeWatch](dogewatch.png)
 
+# DogeWatch News
+
+DogeWatch Online for iOS devices is not available. Clicking on a video will display a play button with a line over it. We are looking for the cause and will notify everyone as soon as it is fixed, or more is found.
+
 # DogeWatch
 
 Welcome to DogeWatch: **Watch the future**.
