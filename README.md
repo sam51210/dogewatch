@@ -54,3 +54,5 @@ Yes! Fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqLBk7ixXCWzT11
 
 # Translations
 日本 (Japanese): https://doggegamingtime-github-io.translate.goog/dogewatch/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp
+
+український (Ukrainian): https://doggegamingtime-github-io.translate.goog/dogewatch/?_x_tr_sl=en&_x_tr_tl=uk&_x_tr_hl=en-US&_x_tr_pto=wapp
