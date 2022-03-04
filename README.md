@@ -51,3 +51,6 @@ Thus meaning that this is a family friendly site. Any video taken down will [loo
 ## Can I help develop DogeWatch?
 
 Yes! Fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqLBk7ixXCWzT11MTdE9ZUfWH4z-O3RnF7bjJrv0Z1aNNB1A/viewform" target="_blank">this form</a>!
+
+# Translations
+日本 (Japanese): https://doggegamingtime-github-io.translate.goog/dogewatch/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp
